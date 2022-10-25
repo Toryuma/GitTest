@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include<iostream>
 
 int main() {
 
-	int i = 1;
+	std::cout << "HelloGit2";
 
 	return 0;
 }
