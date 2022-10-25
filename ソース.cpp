@@ -2,7 +2,8 @@
 
 int main() {
 
-	printf("HelloNewBranch");
+	int i = 0;
+	i--;
 
 	return 0;
 }
