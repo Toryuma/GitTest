@@ -2,7 +2,7 @@
 
 int main() {
 
-	std::cout << "HelloGit2";
+	std::cout << "HelloGit";
 
 	return 0;
 }
